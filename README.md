@@ -1,3 +1,3 @@
-## [Installation](/installation.md#window)
+## [安装](/installation.md#window)
 
-## [Create Repository](/repositoryCreation.md)
+## [创建仓库](/create repository.md)
