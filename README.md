@@ -1,3 +1,3 @@
 ## Installation
-* [Linux] (/installation.md#linux)
-* [Windows] (/installation.md#window)
+* [Linux](/installation.md#linux)
+* [Windows](/installation.md#window)
