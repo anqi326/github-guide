@@ -7,7 +7,7 @@ $ cd repository
 ## 2. 把目录变成git仓库
 ```bash
 $ git init
-$ Initialized empty Git repository in C:/Users/uidw3549/Git/02.Github Repository/repository/.git/
+Initialized empty Git repository in C:/Users/uidw3549/Git/02.Github Repository/repository/.git/
 ```
 ## 3. 编写新文件
 ```bash
