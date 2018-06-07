@@ -16,8 +16,9 @@ $ ls
 readme.txt
 ```
 ## 4. 添加文件到仓库
-   - 添加文件到[暂存区](/staging) 	
-	```bash
+   - 添加文件到[暂存区](/staging)
+    
+    ```bash
 	$ git add readme.txt 
     ```
     
