@@ -1,4 +1,5 @@
 
+
 ## 1. 创建一个空目录
 ```bash
 $ mkdir repository
@@ -17,11 +18,9 @@ readme.txt
 ```
 ## 4. 添加文件到仓库
    - 添加文件到[暂存区](/staging)
-    
-    ```bash
-	$ git add readme.txt 
-    ```
-    
+   ```bash
+   $ git add readme.txt 
+   ```
    - 查看仓库状态
    ```bash
 	$ git status
